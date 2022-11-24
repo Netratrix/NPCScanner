@@ -1,0 +1,12 @@
+## Interface: 100002
+## Title: NPCScanner
+## Notes: Some notes about this addon.
+## Author: Nettrix
+## Version: 0.1
+## SavedVariables: NPCScannerDB
+
+embeds.xml
+
+Configuration/Manifest.xml
+
+NPCScanner.lua
